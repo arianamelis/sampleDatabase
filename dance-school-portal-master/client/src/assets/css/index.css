@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Hind', sans-serif;
+  font-family: 'Lato', sans-serif;
+  background-image: url("../images/shifengwaterfall.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.page-content {
+  background-color: rgb(255, 255, 255);
+  border-radius: 4px;
+}
+
+.page-content h4 {
+  padding-top: .5rem;
+}
+
+#demo-info {
+  background-color: white;
+  line-height: 3rem;
+  border-radius: 4px;
+  font-style: italic;
+}
+
+table {
+  background-color: white;
+}
+
+#login-form {
+  border-radius: 4px;
+  margin-top: 10rem;
+  padding-top: 1rem;
+  width: 450px;
+  border: 1px solid silver;
+  color: white;
+  background-color: #013369;
+}
+
+#login-form input {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+#login-form #submit-button {
+  width: 50%;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  display: block
+}
+
+#formGroupAddSelectRole {
+  width: 300px;
+}
+
+.modal-footer {
+  border: unset;
+}
+
+h3 {
+  text-align: center;
+}
